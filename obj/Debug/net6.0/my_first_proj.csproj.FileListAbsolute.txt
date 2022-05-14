@@ -1,0 +1,15 @@
+/home/maxim/Desktop/my_first_proj/bin/Debug/net6.0/my_first_proj
+/home/maxim/Desktop/my_first_proj/bin/Debug/net6.0/my_first_proj.deps.json
+/home/maxim/Desktop/my_first_proj/bin/Debug/net6.0/my_first_proj.runtimeconfig.json
+/home/maxim/Desktop/my_first_proj/bin/Debug/net6.0/my_first_proj.dll
+/home/maxim/Desktop/my_first_proj/bin/Debug/net6.0/my_first_proj.pdb
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/my_first_proj.csproj.AssemblyReference.cache
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/my_first_proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/my_first_proj.AssemblyInfoInputs.cache
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/my_first_proj.AssemblyInfo.cs
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/my_first_proj.csproj.CoreCompileInputs.cache
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/my_first_proj.dll
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/refint/my_first_proj.dll
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/my_first_proj.pdb
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/my_first_proj.genruntimeconfig.cache
+/home/maxim/Desktop/my_first_proj/obj/Debug/net6.0/ref/my_first_proj.dll
